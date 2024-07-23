@@ -1,5 +1,5 @@
 
-# Project Title
+# StoryForge
 
 LLM app that generates a short story and image based on a given prompt.
 Made with GPT3.5 Turbo and Streamlit.
